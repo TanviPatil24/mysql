@@ -1,0 +1,59 @@
+Section A – AI Companies, Models & Tools
+1	Meta
+2	Google
+3	Anthropic
+4	xAI
+5	Mistral AI
+6	OpenAI
+7	Video
+8	Google
+9	AI image generation
+10	AI-assisted coding
+
+Section B – Generative AI Concepts
+11	Large Language Model
+12	AI that generates new content such as text, images, audio, or video.
+13	An instruction or input given to an AI model.
+14	An instruction that defines how an AI model should behave.
+15	AI that can understand or process multiple types of data, such as text, images, audio, and video.
+16	A false or incorrect AI-generated response presented as factual.
+17	Small units of text that an LLM processes.
+18	The maximum amount of information an AI model can consider at one time.
+19	The process of using a trained AI model to generate an output.
+20	Training a pre-trained model further on specific data or tasks.
+
+Section C – AI for Developers & Applications
+21	An AI system that can plan and perform tasks toward a goal.
+22	A chatbot mainly responds to conversations, while an AI agent can take actions using tools.
+23	Allowing an AI model to call external functions or tools.
+24	Model Context Protocol
+25	To authenticate and access an AI service/API.
+26	A limit on the number of API requests allowed in a given time.
+27	An AI-powered code editor/IDE.
+28	Working with and understanding user-provided documents and sources.
+29	Searching based on meaning rather than exact keywords.
+30	Coding, debugging, and documentation.
+
+Section D – Image, Video, Speech, Models & Hardware
+31	Converting spoken audio into text.
+32	Converting text into spoken audio.
+33	Text from images or scanned documents.
+34	An AI model that understands and analyzes images or visual information.
+35	Generating videos from text prompts.
+36	Generating images, audio, or other content from noise through iterative denoising.
+37	GPUs can perform many parallel mathematical operations efficiently.
+38	Neural Processing Unit
+39	Model data, weights, and intermediate computations.
+40	Running the AI model on your own device instead of a remote cloud server.
+
+Section E – Advanced Awareness, Safety & Responsible AI
+41	An AI model whose trained parameters/weights are made available for users to download and run or adapt.
+42	Training a smaller model to reproduce the behavior of a larger model.
+43	Efficiently fine-tuning a large AI model with a small number of additional parameters.
+44	Mixture of Experts
+45	A standardized test used to evaluate and compare AI models.
+46	A safety control that restricts or guides an AI system's behavior.
+47	An attack that attempts to manipulate an AI model through malicious instructions.
+48	Personally Identifiable Information
+49	Because it may expose sensitive information, create privacy/security risks, or violate company policies.
+50	Verify the answer using reliable sources before making the important decision.
